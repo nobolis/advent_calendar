@@ -1,1 +1,1 @@
-advent_calendar
+The repository is for Advent Calendars
